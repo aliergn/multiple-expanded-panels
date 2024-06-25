@@ -7,3 +7,5 @@ The purpose of its creation is to provide support for opening multiple pages.
 
 ![alt text](https://github.com/aliergn/multiple-expanded-panels/blob/main/screenshot.png)
 
+
+![alt text](https://github.com/aliergn/multiple-expanded-panels/blob/main/screenshot2.png)
